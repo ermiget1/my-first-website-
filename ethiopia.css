@@ -1,0 +1,95 @@
+body {
+    background-image: url(./img/sun.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Rubik Bubbles", system-ui;
+    font-size: larger;
+  font-weight: 400;
+  text-align: center;
+}
+.button{ background-image: url(./img/places-1.jpg);
+  background-size: cover; 
+  background-repeat: no-repeat;
+  width: auto;
+  height: auto;
+  position: relative;
+  border-bottom: 2px solid greenyellow;
+  border-radius: 5%;
+  padding: 30px ;
+  margin: 20px;
+  display: inline-block;
+  transition: transform .2s;
+
+}
+.button-image{width: 200px;
+  border-radius: 50%;
+  margin: 5px;
+  margin-right: 30px;
+  margin-left: 30px;
+  transition: transform .2s;
+
+}
+.bod{position: relative;
+  border-bottom: 2px solid greenyellow;
+  border-radius: 5%;
+  padding: 30px ;
+  margin: 20px;
+  display: inline-block;}
+  .bod{}
+
+.capi{ 
+  margin: 10;
+  width:400;
+  height: 300px;
+  border: 1px solid ;
+  display: inline-block;
+  position: start;
+
+}
+
+#two{margin: 10px;
+  padding: 10px;
+  width:30;
+  height: 30;
+  object-fit: ;}
+
+  .mape{width: 500px;
+    height: 500;
+  }
+
+  h1{text-shadow: 2px 2px #ff0000;
+    animation-direction: alternate;}
+.addis{width: auto;
+  height: auto;
+  object-fit: cover;
+}
+.addis{width: auto;
+  height: auto;
+  object-fit: cover;}
+  h1{text-shadow: 2px 2px #ff0000;}
+
+h2 {
+  color: rgba(73, 16, 205, 0.5);}
+  .ad{color: blue;
+    
+  }
+  h3{font-family: "Orbitron", sans-serif;
+    text-shadow: 2px 2px #060a09;
+    color: rgb(13, 241, 74);
+    font-weight: bold;
+  }
+  p{font-family: "Orbitron", sans-serif;
+    text-shadow: 2px 2px #060a09;
+    color: rgb(234, 31, 31);}
+
+  .map{color:rgb(206, 206, 216);
+    font-family: "Orbitron", sans-serif;}
+
+  h2{text-shadow: 2px 2px #b9ced0;}
+
+  .button{box-shadow: 10px 10px lightblue;}
+  .button-image:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
